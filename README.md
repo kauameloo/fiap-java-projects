@@ -1,2 +1,2 @@
 **1TDSPO**
-- Projetos e atividades desenvolvidas na FIAP
+- Projetos e atividades de JAVA desenvolvidas na FIAP
